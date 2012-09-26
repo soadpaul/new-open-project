@@ -1,4 +1,4 @@
-s a #preview{ float:none; margin:2px auto; text-align:center; width:500px;}
+#preview{ float:none; margin:2px auto; text-align:center; width:500px;}
 .jqzoom{ width:400px; height:600px; position:relative;}
 
 .zoomdiv{ left:859px; height:400px; width:400px;}
