@@ -6,7 +6,7 @@
 #spec-n5{width:250px; height:56px; }
 #spec-left{ background:url https://new-open-project.googlecode.com/svn/trunk/left.gif  no-repeat; width:10px; height:45px; float:left; cursor:pointer; margin-top:5px;}
 #spec-right{background:url https://new-open-project.googlecode.com/svn/trunk/right.gif no-repeat; width:10px; height:45px; float:left;cursor:pointer; margin-top:5px;}
-#spec-list{ width:225px; float:none; overflow:hidden; margin-left:0px; display:inline;}
+#spec-list{ width:225px; float:center; overflow:hidden; margin-left:0px; display:inline;}
 #spec-list ul li{ float:none; margin-right:0px; display:inline;}
 #spec-list ul li img{ padding:2px ; border:1px solid #ccc; height:50px;}
 
